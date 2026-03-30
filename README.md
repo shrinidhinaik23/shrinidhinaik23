@@ -7,9 +7,9 @@
 🧠 About Me
 
 - 🎓 3rd Year Computer Science Engineering Student
-- 🔥 Focused on Backend Engineering & System Design
-- 🚀 Building real-world projects (AI + SaaS + Distributed Systems)
-- 🎯 Goal: Crack product-based companies
+- 🔥 Passionate about Backend Engineering & System Design
+- 🚀 Building AI + SaaS + Distributed Systems projects
+- 🎯 Goal: Crack top product-based companies
 
 ---
 
@@ -19,13 +19,13 @@
 
 - Offline cotton disease detection using TensorFlow Lite
 - Real-time prediction with remedies
-- Android (Jetpack Compose)
+- Built with Android (Jetpack Compose)
 
 ---
 
 ☁️ Distributed Cloud Storage (In Progress)
 
-- Multi-node storage system
+- Multi-node file storage system
 - Replication & fault tolerance
 - Master-node architecture
 
@@ -33,15 +33,15 @@
 
 📄 CollabDocs (In Progress 🚧)
 
-- Real-time collaborative editor
+- Real-time collaborative document editor
 - WebSocket-based syncing
 
 ---
 
 🤖 CareerAI
 
-- Resume analyzer with skill gap detection
-- AI-powered recommendations
+- Resume analyzer with AI-based skill gap detection
+- Personalized recommendations for career growth
 
 ---
 
@@ -54,13 +54,20 @@ Database: MongoDB | MySQL | Supabase
 AI: TensorFlow | TFLite
 
 ---
-## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrinidhinaik23&show_icons=true)
+📈 What I'm Currently Working On
 
+- ⚡ Distributed Systems (Storage & Scaling)
+- ⚡ Real-time Applications (Collaboration tools)
+- ⚡ Backend Optimization
+
+---
 
 📫 Connect with Me
 
-- 💼 LinkedIn: [linkedin.com/shrinidhinaik](https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 💼 LinkedIn: [(add your link)](https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 📧 Email: naikshrinidhi578@gmail.com
 
+---
+
+⭐ If you like my work, consider giving a star!
