@@ -2,7 +2,7 @@
 
 <h3 align="center">🚀 Full Stack Developer | AI Builder | System Design Enthusiast</h3><p align="center">
   💡 Building real-world products using AI, Distributed Systems, and scalable backend architectures
-</p>---
+</p>
 
 🧠 About Me
 
@@ -23,7 +23,7 @@
 
 ---
 
-☁️ Distributed Cloud Storage (In Progress)
+☁️ Distributed Cloud Storage (In Progress 🚧)
 
 - Multi-node file storage system
 - Replication & fault tolerance
@@ -65,7 +65,7 @@ AI: TensorFlow | TFLite
 
 📫 Connect with Me
 
-- 💼 LinkedIn: [(add your link)](https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 💼 LinkedIn: https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 📧 Email: naikshrinidhi578@gmail.com
 
 ---
