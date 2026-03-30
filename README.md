@@ -65,7 +65,7 @@ AI: TensorFlow | TFLite
 
 📫 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 💼 LinkedIn: https://www.linkedin.com/in/shrinidhi-manjunath-naik
 - 📧 Email: naikshrinidhi578@gmail.com
 
 ---
