@@ -2,9 +2,9 @@
 <p align="center">
   Full Stack Developer • AI Builder • System Design
 </p><p align="center">
-  <a href="https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a47/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4/">LinkedIn</a> •
   <a href="mailto:naikshrinidhi578@gmail.com">Email</a>
-</p>---
+</p>
 
 About
 
@@ -43,19 +43,19 @@ AI-powered resume analyzer that identifies skill gaps and provides personalized 
 
 Skills
 
-Languages
+Languages :
 Java • JavaScript • Python
 
-Frontend
+Frontend :
 React • Next.js
 
-Backend
+Backend :
 Node.js • Express
 
-Database
+Database :
 MongoDB • MySQL • Supabase
 
-AI / ML
+AI / ML :
 TensorFlow • TensorFlow Lite
 
 ---
