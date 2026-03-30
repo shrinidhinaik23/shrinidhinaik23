@@ -54,15 +54,13 @@ Database: MongoDB | MySQL | Supabase
 AI: TensorFlow | TFLite
 
 ---
+## 📊 GitHub Stats  
 
-📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrinidhinaik23&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrinidhinaik23&show_icons=true&theme=tokyonight" />
-</p>---
 
 📫 Connect with Me
 
-- 💼 LinkedIn: linkedin.com/shrinidhinaik
+- 💼 LinkedIn: [linkedin.com/shrinidhinaik](https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 📧 Email: naikshrinidhi578@gmail.com
 
