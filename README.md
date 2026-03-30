@@ -1,73 +1,73 @@
-<h1 align="center">Hi 👋, I'm Shrinidhi Naik</h1>
+<h1 align="center">Shrinidhi Naik</h1>
+<p align="center">
+  Full Stack Developer • AI Builder • System Design
+</p><p align="center">
+  <a href="https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a47/">LinkedIn</a> •
+  <a href="mailto:naikshrinidhi578@gmail.com">Email</a>
+</p>---
 
-<h3 align="center">🚀 Full Stack Developer | AI Builder | System Design Enthusiast</h3><p align="center">
-  💡 Building real-world products using AI, Distributed Systems, and scalable backend architectures
+About
+
+I am a Computer Science Engineering student focused on building scalable backend systems and real-world AI applications.
+
+My work centers around distributed systems, system design, and practical problem-solving, with an emphasis on clarity, performance, and usability.
+
+---
+
+Work
+
+CottonCare
+
+Offline AI-based mobile application for cotton disease detection using TensorFlow Lite.
+Designed for real-time inference without internet access.
+
+---
+
+Distributed Cloud Storage (In Progress)
+
+A multi-node storage system implementing replication, fault tolerance, and master-node coordination.
+
+---
+
+CollabDocs (In Progress)
+
+Real-time collaborative editor using WebSockets with focus on synchronization and consistency.
+
+---
+
+CareerAI
+
+AI-powered resume analyzer that identifies skill gaps and provides personalized recommendations.
+
+---
+
+Skills
+
+Languages
+Java • JavaScript • Python
+
+Frontend
+React • Next.js
+
+Backend
+Node.js • Express
+
+Database
+MongoDB • MySQL • Supabase
+
+AI / ML
+TensorFlow • TensorFlow Lite
+
+---
+
+Focus
+
+- Distributed Systems
+- Real-time Applications
+- Backend Engineering
+
+---
+
+<p align="center">
+  <i>Building systems that solve real problems.</i>
 </p>
-
-🧠 About Me
-
-- 🎓 3rd Year Computer Science Engineering Student
-- 🔥 Passionate about Backend Engineering & System Design
-- 🚀 Building AI + SaaS + Distributed Systems projects
-- 🎯 Goal: Crack top product-based companies
-
----
-
-🚀 Featured Projects
-
-🌿 CottonCare — AI Mobile App
-
-- Offline cotton disease detection using TensorFlow Lite
-- Real-time prediction with remedies
-- Built with Android (Jetpack Compose)
-
----
-
-☁️ Distributed Cloud Storage (In Progress 🚧)
-
-- Multi-node file storage system
-- Replication & fault tolerance
-- Master-node architecture
-
----
-
-📄 CollabDocs (In Progress 🚧)
-
-- Real-time collaborative document editor
-- WebSocket-based syncing
-
----
-
-🤖 CareerAI
-
-- Resume analyzer with AI-based skill gap detection
-- Personalized recommendations for career growth
-
----
-
-🛠️ Tech Stack
-
-Languages: Java | JavaScript | Python
-Frontend: React | Next.js
-Backend: Node.js | Express
-Database: MongoDB | MySQL | Supabase
-AI: TensorFlow | TFLite
-
----
-
-📈 What I'm Currently Working On
-
-- ⚡ Distributed Systems (Storage & Scaling)
-- ⚡ Real-time Applications (Collaboration tools)
-- ⚡ Backend Optimization
-
----
-
-📫 Connect with Me
-
-- 💼 LinkedIn: [Shrinidhi Manjunath Naik](https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4/)
-- 📧 Email: naikshrinidhi578@gmail.com
-
----
-
-⭐ If you like my work, consider giving a star!
