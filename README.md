@@ -42,7 +42,7 @@ Distributed file storage system with multiple storage nodes, replication, and fa
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,spring,mysql,supabase,firebase,html,css,tailwind,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,javascript,react,nodejs,express,spring,mysql,supabase,firebase,html,css,tailwind,git,github,vscode,androidstudio,postman,tensorflow" />
 </p>
 
 ---
