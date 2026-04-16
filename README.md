@@ -63,7 +63,7 @@ Distributed file storage system with multiple storage nodes, replication, and fa
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/shrinidhinaik23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+ 
   <a href="https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:naikshrinidhi578@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
