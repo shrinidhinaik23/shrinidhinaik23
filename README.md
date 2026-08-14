@@ -93,16 +93,22 @@ Subscription-based golf and charity platform equipped with live score tracking, 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<table align="center" border="0">
+<tr>
+<td valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=shrinidhinaik23&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=0EA5E9&icon_color=0EA5E9&bg_color=0F172A"/>
+</td>
+<td valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinidhinaik23&layout=compact&theme=dracula&hide_border=true&title_color=0EA5E9&langs_count=8&bg_color=0F172A"/>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrinidhinaik23&theme=dark&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&background=0F172A" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrinidhinaik23&theme=dark&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&background=0F172A" width="98%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinidhinaik23&theme=react-dark&hide_border=true&color=0EA5E9&line=0EA5E9&bg_color=0F172A" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinidhinaik23&theme=react-dark&hide_border=true&color=0EA5E9&line=0EA5E9&bg_color=0F172A" width="100%"/>
 
 </div>
-
 <br/>
 
 <div align="center">
