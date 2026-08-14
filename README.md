@@ -13,7 +13,7 @@
 <br/>
 
 ```
-> whoami
+> whoami 
 Computer Science Engineering student building production-grade software
 across mobile, web, and distributed systems. Interested in the intersection
 of applied ML and scalable backend architecture.
