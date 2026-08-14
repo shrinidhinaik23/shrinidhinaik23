@@ -1,69 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2F87,100:00C2FF&height=220&section=header&text=Shrinidhi%20Manjunath%20Naik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+# Shrinidhi Manjunath Naik
 
-<a href="https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:naikshrinidhi578@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=shrinidhinaik23&style=for-the-badge&color=00C2FF&label=PROFILE+VIEWS"/>
+**Full Stack Engineer · AI/ML**
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Building+impactful+real-world+projects;Always+learning%2C+always+shipping" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4/)
+[![Email](https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail)](mailto:naikshrinidhi578@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Repositories-000?style=flat-square&logo=github)](https://github.com/shrinidhinaik23?tab=repositories)
 
 </div>
 
 <br/>
 
-## 🚀 About Me
-
-- 🎓 Computer Science Engineering student
-- 💻 Focused on **Full Stack Development, AI/ML, and scalable systems**
-- 🌱 Currently sharpening **DSA, Java, React, Node.js, and System Design**
-- 📱 I build projects that combine **software + real-world impact**
-- 🎯 Goal: become a top-tier engineer through strong projects and consistent problem-solving
+```
+> whoami
+Computer Science Engineering student building production-grade software
+across mobile, web, and distributed systems. Interested in the intersection
+of applied ML and scalable backend architecture.
+```
 
 <br/>
 
-## 🏆 Featured Projects
+## Experience & Focus
+
+| | |
+|---|---|
+| **Currently** | Deepening Data Structures & Algorithms, Java, System Design |
+| **Building with** | React, Node.js, Spring Boot, TensorFlow Lite |
+| **Interested in** | Distributed systems, applied ML, developer tooling |
+| **Ask me about** | Full-stack architecture, mobile ML inference, resume/NLP systems |
+
+<br/>
+
+## Selected Projects
+
+**[CareerAI](https://github.com/shrinidhinaik23/CareerAI)** — Career intelligence platform
+Parses resumes against target job roles, surfaces skill gaps, and scores ATS compatibility using NLP.
+`React` `FastAPI` `Python` `NLP`
+
+**[Distributed Cloud Storage](https://github.com/shrinidhinaik23/distributed-cloud-storage)** — Fault-tolerant storage system
+Multi-node file storage with replication, load balancing, and MySQL-backed metadata management.
+`Java` `Spring Boot` `MySQL` `REST`
+
+**[CottonCare](https://github.com/shrinidhinaik23/CottonCare)** — On-device disease detection
+Offline Android app running a MobileNetV2 model for cotton leaf disease classification — no network dependency, inference on-device.
+`Kotlin` `Jetpack Compose` `TensorFlow Lite`
+
+**Golf Web Platform** — Subscription commerce platform
+Score tracking, admin dashboard, and payment processing for a golf + charity subscription product.
+`Next.js` `Supabase` `Razorpay`
+
+<br/>
+
+## Stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="25%">
 
-### 🌿 [CottonCare](https://github.com/shrinidhinaik23/CottonCare)
-AI-based offline Android app for cotton leaf disease detection.
-
-`Kotlin` `Jetpack Compose` `TensorFlow Lite` `MobileNetV2`
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 [CareerAI](https://github.com/shrinidhinaik23/CareerAI)
-AI-powered career intelligence platform — analyzes resumes, finds skill gaps, and improves ATS compatibility.
-
-`React` `FastAPI` `Python` `NLP`
+**Languages**
+Java · Python · C
+JavaScript · TypeScript
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td valign="top" width="25%">
 
-### ⛳ Golf Web Platform
-Subscription-based golf + charity platform with score tracking, admin dashboard, and payments.
-
-`Next.js` `Supabase` `Razorpay`
+**Frontend**
+React · Next.js
+Tailwind · HTML/CSS
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="25%">
 
-### ☁️ [Distributed Cloud Storage](https://github.com/shrinidhinaik23/distributed-cloud-storage)
-Distributed file storage with replication, load balancing, and fault tolerance.
+**Backend**
+Node.js · Express
+Spring Boot · Firebase
 
-`Java` `Spring Boot` `MySQL` `REST APIs`
+</td>
+<td valign="top" width="25%">
+
+**Tools**
+Git · Postman
+VS Code · Android Studio
 
 </td>
 </tr>
@@ -71,37 +89,16 @@ Distributed file storage with replication, load balancing, and fault tolerance.
 
 <br/>
 
-## 🛠️ Tech Stack
+## GitHub Activity
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=java,python,c,javascript,react,nodejs,express,typescript,spring,mysql,firebase,html,css,tailwind,git,github,vscode,androidstudio,postman,figma&perline=10)
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=shrinidhinaik23&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=1a1a1a&icon_color=1a1a1a&title_color=1a1a1a" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinidhinaik23&layout=compact&theme=default&hide_border=true&hide_title=true&text_color=1a1a1a&title_color=1a1a1a" width="35%"/>
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shrinidhinaik23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinidhinaik23&layout=compact&theme=tokyonight&hide_border=true" width="34%"/>
-
-<img src="https://streak-stats.demolab.com/?user=shrinidhinaik23&theme=tokyonight&hide_border=true" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinidhinaik23&theme=tokyo-night&hide_border=true" width="90%"/>
-
-</div>
-
-<br/>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:naikshrinidhi578@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinidhinaik23&theme=minimal&hide_border=true&hide_title=true" width="90%"/>
 
 </div>
 
@@ -109,10 +106,6 @@ Distributed file storage with replication, load balancing, and fault tolerance.
 
 <div align="center">
 
-### ✨ Developer Mindset
-*"I love building projects that are not just technical, but useful.*
-*My focus is on writing clean code, solving real problems, and continuously improving as a developer."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:2C2F87&height=100&section=footer" width="100%"/>
+<sub>Open to full-time and internship opportunities in software engineering.</sub>
 
 </div>
