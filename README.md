@@ -48,7 +48,7 @@ AI-powered career intelligence platform — parses resumes against target roles,
 
 ### 🌿 [CottonCare](https://github.com/shrinidhinaik23/CottonCare)
 
-Offline Android app for cotton leaf disease detection — runs a MobileNetV2 model fully on-device, no network dependency.
+Offline Android app for cotton leaf disease detection — runs a MobileNetV2 model fully on-device, with no network dependency.
 
 ![](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -56,6 +56,7 @@ Offline Android app for cotton leaf disease detection — runs a MobileNetV2 mod
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -88,51 +89,19 @@ Subscription-based golf + charity platform with live score tracking, an admin da
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,typescript,kotlin,react,nextjs,nodejs,express,spring,fastapi,mysql,postgresql,mongodb,firebase,supabase,tensorflow,html,css,tailwind,git,github,docker,vscode,androidstudio,postman&perline=9"/>
 
-![](https://skillicons.dev/icons?i=java,python,c,javascript,typescript,kotlin&perline=6)
+<br/><br/>
 
-### Frontend
-
-![](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=5)
-
-### Backend
-
-![](https://skillicons.dev/icons?i=nodejs,express,spring,fastapi&perline=4)
-
-### Databases
-
-![](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase&perline=5)
-
-### AI / ML
-
-![](https://skillicons.dev/icons?i=tensorflow&perline=1)
-
-`TensorFlow Lite` `MobileNetV2` `NLP` `Computer Vision`
-
-### Mobile
-
-![](https://skillicons.dev/icons?i=androidstudio&perline=1)
-
-`Kotlin` `Jetpack Compose`
-
-### Tools
-
-![](https://skillicons.dev/icons?i=git,github,docker,vscode,postman&perline=5)
+`TensorFlow Lite` · `MobileNetV2` · `NLP` · `Computer Vision` · `Jetpack Compose` · `REST APIs`
 
 </div>
 
 <br/>
 
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shrinidhinaik23&show_icons=true&theme=dracula" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinidhinaik23&layout=compact&theme=dracula&hide_border=true&title_color=0EA5E9&langs_count=8&bg_color=0F172A" width="34.5%"/>
-
-<img src="https://streak-stats.demolab.com/?user=shrinidhinaik23&theme=dark&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&background=0F172A" width="61%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinidhinaik23&theme=react-dark&hide_border=true&color=0EA5E9&line=0EA5E9&bg_color=0F172A" width="91%"/>
 
