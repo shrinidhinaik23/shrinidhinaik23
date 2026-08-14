@@ -36,6 +36,7 @@ I build production-grade software across mobile, web, and distributed systems, w
 <td width="50%" valign="top">
 
 ### 💼 [CareerAI](https://github.com/shrinidhinaik23/CareerAI)
+
 AI-powered career intelligence platform — parses resumes against target roles, identifies skill gaps, and scores ATS compatibility using NLP.
 
 ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -46,6 +47,7 @@ AI-powered career intelligence platform — parses resumes against target roles,
 <td width="50%" valign="top">
 
 ### 🌿 [CottonCare](https://github.com/shrinidhinaik23/CottonCare)
+
 Offline Android app for cotton leaf disease detection — runs a MobileNetV2 model fully on-device, no network dependency.
 
 ![](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -58,6 +60,7 @@ Offline Android app for cotton leaf disease detection — runs a MobileNetV2 mod
 <td width="50%" valign="top">
 
 ### ☁️ [Distributed Cloud Storage](https://github.com/shrinidhinaik23/distributed-cloud-storage)
+
 Fault-tolerant, multi-node storage system with replication, load balancing, and MySQL-backed metadata management.
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -68,6 +71,7 @@ Fault-tolerant, multi-node storage system with replication, load balancing, and 
 <td width="50%" valign="top">
 
 ### ⛳ Golf Web Platform
+
 Subscription-based golf + charity platform with live score tracking, an admin dashboard, and integrated payments.
 
 ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -84,7 +88,37 @@ Subscription-based golf + charity platform with live score tracking, an admin da
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=java,python,c,javascript,typescript,react,nodejs,express,spring,mysql,firebase,html,css,tailwind,git,github,androidstudio,postman&perline=9)
+### Languages
+
+![](https://skillicons.dev/icons?i=java,python,c,javascript,typescript,kotlin&perline=6)
+
+### Frontend
+
+![](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=5)
+
+### Backend
+
+![](https://skillicons.dev/icons?i=nodejs,express,spring,fastapi&perline=4)
+
+### Databases
+
+![](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase&perline=5)
+
+### AI / ML
+
+![](https://skillicons.dev/icons?i=tensorflow&perline=1)
+
+`TensorFlow Lite` `MobileNetV2` `NLP` `Computer Vision`
+
+### Mobile
+
+![](https://skillicons.dev/icons?i=androidstudio&perline=1)
+
+`Kotlin` `Jetpack Compose`
+
+### Tools
+
+![](https://skillicons.dev/icons?i=git,github,docker,vscode,postman&perline=5)
 
 </div>
 
@@ -97,9 +131,9 @@ Subscription-based golf + charity platform with live score tracking, an admin da
 <img src="https://github-readme-stats.vercel.app/api?username=shrinidhinaik23&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=0EA5E9&icon_color=0EA5E9&bg_color=0F172A" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinidhinaik23&layout=compact&theme=dracula&hide_border=true&title_color=0EA5E9&langs_count=8&bg_color=0F172A" width="34.5%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrinidhinaik23&theme=dark&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&background=0F172A" width="61%"/>
+<img src="https://streak-stats.demolab.com/?user=shrinidhinaik23&theme=dark&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&background=0F172A" width="61%"/>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=shrinidhinaik23&theme=react-dark&hide_border=true&color=0EA5E9&line=0EA5E9&bg_color=0F172A" width="91%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinidhinaik23&theme=react-dark&hide_border=true&color=0EA5E9&line=0EA5E9&bg_color=0F172A" width="91%"/>
 
 </div>
 
