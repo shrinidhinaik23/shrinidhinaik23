@@ -128,7 +128,8 @@ Subscription-based golf + charity platform with live score tracking, an admin da
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shrinidhinaik23&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=0EA5E9&icon_color=0EA5E9&bg_color=0F172A" width="49%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shrinidhinaik23&show_icons=true&theme=dracula" width="49%"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinidhinaik23&layout=compact&theme=dracula&hide_border=true&title_color=0EA5E9&langs_count=8&bg_color=0F172A" width="34.5%"/>
 
 <img src="https://streak-stats.demolab.com/?user=shrinidhinaik23&theme=dark&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&background=0F172A" width="61%"/>
