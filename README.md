@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=200&section=header&text=Shrinidhi%20Manjunath%20Naik&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16&fontFamily=Fira+Code" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=220&section=header&text=Shrinidhi%20Manjunath%20Naik&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16&fontFamily=Fira+Code" width="100%"/>
 
-<a href="https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:naikshrinidhi578@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/shrinidhinaik23?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=shrinidhinaik23&style=for-the-badge&color=0EA5E9&label=VIEWS"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4/)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naikshrinidhi578@gmail.com)
+[![Repositories](https://img.shields.io/badge/Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrinidhinaik23?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=shrinidhinaik23&style=for-the-badge&color=0EA5E9&label=VIEWS)
 
 <br/><br/>
 
@@ -13,105 +13,100 @@
 
 </div>
 
-<br/>
+---
 
-## About
+### 👨‍💻 About Me
 
-I build production-grade software across mobile, web, and distributed systems, with a focus on applying AI/ML to real-world problems. Currently deepening my knowledge of **DSA, Java, System Design, and scalable backend architecture**.
+I build production-grade software across mobile, web, and distributed systems, with a focus on applying AI/ML to real-world problems. Currently deepening my knowledge of DSA, Java, System Design, and scalable backend architecture.
 
-| | |
-|---|---|
-| 🎓 **Studying** | Computer Science Engineering |
-| 🔭 **Building with** | React, Node.js, Spring Boot, TensorFlow Lite |
-| 🌱 **Currently learning** | DSA · System Design · Advanced Java |
-| 💬 **Ask me about** | Full-stack architecture, on-device ML, resume/NLP systems |
-| 📫 **Reach me** | [LinkedIn](https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4/) · [Email](mailto:naikshrinidhi578@gmail.com) |
+* 🎓 **Studying:** Computer Science Engineering
+* 🔭 **Building with:** React, Node.js, Spring Boot, TensorFlow Lite
+* 🌱 **Currently learning:** Data Structures & Algorithms · System Design · Advanced Java
+* 💬 **Ask me about:** Full-stack architecture, on-device ML, and resume/NLP systems
+* 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4/) · [Email](mailto:naikshrinidhi578@gmail.com)
 
-<br/>
+---
 
-## Featured Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💼 [CareerAI](https://github.com/shrinidhinaik23/CareerAI)
-
-AI-powered career intelligence platform — parses resumes against target roles, identifies skill gaps, and scores ATS compatibility using NLP.
-
-![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 💼 CareerAI
+AI-powered career intelligence platform designed to parse resumes against target roles, identify skill gaps, and score ATS compatibility using advanced NLP.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌿 [CottonCare](https://github.com/shrinidhinaik23/CottonCare)
-
-Offline Android app for cotton leaf disease detection — runs a MobileNetV2 model fully on-device, with no network dependency.
-
-![](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+### 🌿 CottonCare
+Offline Android application for cotton leaf disease detection running a MobileNetV2 model fully on-device with zero network dependency.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ [Distributed Cloud Storage](https://github.com/shrinidhinaik23/distributed-cloud-storage)
-
-Fault-tolerant, multi-node storage system with replication, load balancing, and MySQL-backed metadata management.
-
-![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### ☁️ Distributed Cloud Storage
+Fault-tolerant, multi-node storage system featuring automated replication, efficient load balancing, and MySQL-backed metadata management.
 
 </td>
 <td width="50%" valign="top">
 
 ### ⛳ Golf Web Platform
-
-Subscription-based golf + charity platform with live score tracking, an admin dashboard, and integrated payments.
-
-![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
+Subscription-based golf and charity platform equipped with live score tracking, an administrative dashboard, and integrated payment gateways.
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,typescript,kotlin,react,nextjs,nodejs,express,spring,fastapi,mysql,postgresql,mongodb,firebase,supabase,tensorflow,html,css,tailwind,git,github,docker,vscode,androidstudio,postman&perline=9"/>
+#### **Languages & Databases**
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
-<br/><br/>
+#### **Frameworks & Backend**
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 
-`TensorFlow Lite` · `MobileNetV2` · `NLP` · `Computer Vision` · `Jetpack Compose` · `REST APIs`
+#### **AI/ML & Tools**
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+</div>
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shrinidhinaik23&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=0EA5E9&icon_color=0EA5E9&bg_color=0F172A" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinidhinaik23&layout=compact&theme=dracula&hide_border=true&title_color=0EA5E9&langs_count=8&bg_color=0F172A" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrinidhinaik23&theme=dark&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&background=0F172A" width="98%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinidhinaik23&theme=react-dark&hide_border=true&color=0EA5E9&line=0EA5E9&bg_color=0F172A" width="98%"/>
 
 </div>
 
 <br/>
 
-## GitHub Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinidhinaik23&theme=react-dark&hide_border=true&color=0EA5E9&line=0EA5E9&bg_color=0F172A" width="91%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*"I build things that are not just technical, but useful — clean code, real problems, continuous improvement."*
+> *"I build things that are not just technical, but useful — clean code, real problems, continuous improvement."*
 
 <br/>
 
