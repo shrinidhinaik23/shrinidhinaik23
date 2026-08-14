@@ -75,7 +75,7 @@ Distributed file storage with replication, load balancing, and fault tolerance.
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=java,python,c,javascript,react,nodejs,express,typescript,spring,mysql,firebase,html,css,tailwind,git,github,vscode,androidstudio,postman,figma&perline=10)
+![](https://skillicons.dev/icons?i=java,python,c,javascript,react,nodejs,express,typescript,spring,mysql,firebase,html,css,tailwind,git,github,vscode,androidstudio,postman,docker,figma&perline=10)
 
 </div>
 
