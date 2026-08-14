@@ -15,33 +15,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-### 🌿 CottonCare — Offline AI for Farmers
-Android app that detects cotton leaf diseases **without an internet connection**, using an on-device TensorFlow Lite model — built for rural areas with poor connectivity.
-- Detects **[ADD: N]** disease classes at **[ADD: X]% accuracy**
-- **Tech:** Kotlin, Jetpack Compose, TensorFlow Lite, MobileNetV2
-- 🔗 [ADD: demo video / APK link]
-
-### 💼 CareerAI — Resume Skill-Gap Analyzer
-Compares a resume against a target job role, flags missing skills, and improves ATS compatibility using NLP.
-- Tested against **[ADD: N]** real resumes / roles, surfacing **[ADD: specific insight]**
-- **Tech:** React, FastAPI, Python, NLP
-- 🔗 [ADD: live link / demo GIF]
-
-### ☁️ Distributed Cloud Storage System
-Distributed file storage system that simulates node failure and **automatically recovers via replication** — built to understand fault tolerance at a systems level.
-- **[ADD: N]** storage nodes, replication factor **[ADD: X]**, handles concurrent node failure without data loss
-- **Tech:** Java, Spring Boot, MySQL, REST APIs
-- 🔗 [ADD: architecture diagram / repo link]
-
-### ⛳ Golf Web Platform
-Subscription-based golf + charity platform with live score tracking, admin dashboard, and integrated payments.
-- **Tech:** Next.js, Supabase, Razorpay
-- 🔗 [ADD: live deployment link]
-
----
-
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,javascript,react,nodejs,express,typescript,spring,mysql,supabase,firebase,html,css,tailwind,git,github,vscode,androidstudio,postman,tensorflow" />
