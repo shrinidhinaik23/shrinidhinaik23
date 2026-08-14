@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=220&section=header&text=Shrinidhi%20Manjunath%20Naik&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16&fontFamily=Fira+Code" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=220&section=header&text=Shrinidhi%20Manjunath%20Naik&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16&fontFamily=Fira+Code" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4/)
 [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naikshrinidhi578@gmail.com)
@@ -17,12 +17,12 @@
 
 ### 👨‍💻 About Me
 
-I build production-grade software across mobile, web, and distributed systems, with a focus on applying AI/ML to real-world problems. Currently deepening my knowledge of DSA, Java, System Design, and scalable backend architecture.
+I'm a Computer Science Engineering student who builds full-stack and AI/ML projects — from an offline disease-detection app to a distributed storage system. Currently sharpening my DSA, Java, and system design fundamentals.
 
 * 🎓 **Studying:** Computer Science Engineering
 * 🔭 **Building with:** React, Node.js, Spring Boot, TensorFlow Lite
 * 🌱 **Currently learning:** Data Structures & Algorithms · System Design · Advanced Java
-* 💬 **Ask me about:** Full-stack architecture, on-device ML, and resume/NLP systems
+* 💬 **Ask me about:** the projects I've built — on-device ML, resume/NLP systems, distributed storage
 * 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4/) · [Email](mailto:naikshrinidhi578@gmail.com)
 
 ---
