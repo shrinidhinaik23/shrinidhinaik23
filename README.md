@@ -1,69 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2F87,100:00C2FF&height=220&section=header&text=Shrinidhi%20Manjunath%20Naik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:2C2F87,100:00C2FF&height=200&section=header&text=Shrinidhi%20Manjunath%20Naik&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%2B%20AI%2FML&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:naikshrinidhi578@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=shrinidhinaik23&style=for-the-badge&color=00C2FF&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Building+impactful+real-world+projects;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<a href="https://github.com/shrinidhinaik23">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=shrinidhinaik23&style=flat-square&color=00C2FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br/>
 
-## 🚀 About Me
+## About
 
-- 🎓 Computer Science Engineering student
-- 💻 Focused on **Full Stack Development, AI/ML, and scalable systems**
-- 🌱 Currently sharpening **DSA, Java, React, Node.js, and System Design**
-- 📱 I build projects that combine **software + real-world impact**
-- 🎯 Goal: become a top-tier engineer through strong projects and consistent problem-solving
+Final-year Computer Science & Engineering student (CGPA 9.07) building production-grade software across full-stack, applied ML, and IoT systems. Currently a Full Stack Development intern at **Glow Logics**, and shipping projects end-to-end — from model training to deployed, working systems rather than notebooks.
+
+- 🔭 Working on **AirGuard** — an IoT wearable air quality monitoring system with a FastAPI + PostgreSQL backend serving real-time sensor ingestion and ML-based forecasting
+- 🌱 Deepening **DSA (Java)**, system design, and MLOps fundamentals
+- 🎯 Targeting **AI/ML and Software Engineering** roles
+- ⚡ NPTEL Java Programming — **Elite Gold, 95%**
 
 <br/>
 
-## 🏆 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌿 [CottonCare](https://github.com/shrinidhinaik23/CottonCare)
-AI-based offline Android app for cotton leaf disease detection.
+### AirGuard — Wearable Air Quality Monitor
+IoT mask system with real-time sensor ingestion, ML-based air-quality forecasting, and a FastAPI backend on PostgreSQL. Owned backend architecture and model-serving integration.
 
-`Kotlin` `Jetpack Compose` `TensorFlow Lite` `MobileNetV2`
+`FastAPI` `PostgreSQL` `IoT` `ML Inference`
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 [CareerAI](https://github.com/shrinidhinaik23/CareerAI)
-AI-powered career intelligence platform — analyzes resumes, finds skill gaps, and improves ATS compatibility.
+### [CareerAI](https://github.com/shrinidhinaik23/CareerAI)
+AI-powered career intelligence platform that parses resumes with NLP, surfaces skill gaps, and scores ATS compatibility. Deployed on Vercel/Render.
 
-`React` `FastAPI` `Python` `NLP`
+`React` `FastAPI` `spaCy` `scikit-learn`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⛳ Golf Web Platform
-Subscription-based golf + charity platform with score tracking, admin dashboard, and payments.
+### [CottonCare](https://github.com/shrinidhinaik23/CottonCare)
+Offline-first Android app for cotton leaf disease detection using an on-device MobileNetV2 model — no internet dependency for farmers in the field.
 
-`Next.js` `Supabase` `Razorpay`
+`Kotlin` `Jetpack Compose` `TensorFlow Lite`
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ [Distributed Cloud Storage](https://github.com/shrinidhinaik23/distributed-cloud-storage)
-Distributed file storage with replication, load balancing, and fault tolerance.
+### Phishing Website Detector
+Solo ML project benchmarking Logistic Regression against Random Forest for phishing URL classification, with a focus on feature engineering and model evaluation.
+
+`Python` `scikit-learn` `Pandas`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Distributed Cloud Storage](https://github.com/shrinidhinaik23/distributed-cloud-storage)
+Custom distributed file storage system implementing replication, load balancing, and fault tolerance from first principles.
 
 `Java` `Spring Boot` `MySQL` `REST APIs`
+
+</td>
+<td width="50%" valign="top">
+
+### Golf & Charity Platform
+Subscription-based platform with live score tracking, an admin dashboard, and integrated payments.
+
+`Next.js` `Supabase` `Razorpay`
 
 </td>
 </tr>
@@ -71,17 +89,26 @@ Distributed file storage with replication, load balancing, and fault tolerance.
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<div align="center">
+**Languages**
+![](https://skillicons.dev/icons?i=java,python,c,javascript,typescript&perline=10)
 
-![](https://skillicons.dev/icons?i=java,python,c,javascript,react,nodejs,express,typescript,spring,mysql,firebase,html,css,tailwind,git,github,vscode,androidstudio,postman,docker,figma&perline=10)
+**Frontend**
+![](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=10)
 
-</div>
+**Backend & Systems**
+![](https://skillicons.dev/icons?i=nodejs,express,spring,fastapi&perline=10)
+
+**Data & ML**
+![](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,mysql,postgres,firebase&perline=10)
+
+**Tooling**
+![](https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,androidstudio&perline=10)
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -96,23 +123,17 @@ Distributed file storage with replication, load balancing, and fault tolerance.
 
 <br/>
 
-## 🌐 Connect With Me
+## Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:naikshrinidhi578@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shrinidhi-manjunath-naik-1a21662a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:naikshrinidhi578@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-</div>
+<br/><br/>
 
-<br/>
+<i>Writing clean code, solving real problems, and shipping things that work.</i>
 
-<div align="center">
-
-### ✨ Developer Mindset
-*"I love building projects that are not just technical, but useful.*
-*My focus is on writing clean code, solving real problems, and continuously improving as a developer."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:2C2F87&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0A0E27&height=90&section=footer" width="100%"/>
 
 </div>
