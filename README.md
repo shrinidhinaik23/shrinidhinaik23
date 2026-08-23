@@ -59,9 +59,6 @@ Offline-first Android app for cotton leaf disease detection using an on-device M
 </td>
 <td width="50%" valign="top">
 
-
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Distributed Cloud Storage](https://github.com/shrinidhinaik23/Syncdrive-AI)
