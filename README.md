@@ -19,12 +19,11 @@
 
 ## About
 
-Final-year Computer Science & Engineering student (CGPA 9.07) building production-grade software across full-stack, applied ML, and IoT systems. Currently a Full Stack Development intern at **Glow Logics**, and shipping projects end-to-end — from model training to deployed, working systems rather than notebooks.
+Final-year Computer Science & Engineering student building production-grade software across full-stack, applied ML, and IoT systems. Currently a Full Stack Development intern, and shipping projects end-to-end — from model training to deployed, working systems rather than notebooks.
 
 - 🔭 Working on **AirGuard** — an IoT wearable air quality monitoring system with a FastAPI + PostgreSQL backend serving real-time sensor ingestion and ML-based forecasting
 - 🌱 Deepening **DSA (Java)**, system design, and MLOps fundamentals
 - 🎯 Targeting **AI/ML and Software Engineering** roles
-- ⚡ NPTEL Java Programming — **Elite Gold, 95%**
 
 <br/>
 
@@ -60,30 +59,19 @@ Offline-first Android app for cotton leaf disease detection using an on-device M
 </td>
 <td width="50%" valign="top">
 
-### Phishing Website Detector
-Solo ML project benchmarking Logistic Regression against Random Forest for phishing URL classification, with a focus on feature engineering and model evaluation.
 
-`Python` `scikit-learn` `Pandas`
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Distributed Cloud Storage](https://github.com/shrinidhinaik23/distributed-cloud-storage)
+### [Distributed Cloud Storage](https://github.com/shrinidhinaik23/Syncdrive-AI)
 Custom distributed file storage system implementing replication, load balancing, and fault tolerance from first principles.
 
 `Java` `Spring Boot` `MySQL` `REST APIs`
 
 </td>
-<td width="50%" valign="top">
 
-### Golf & Charity Platform
-Subscription-based platform with live score tracking, an admin dashboard, and integrated payments.
 
-`Next.js` `Supabase` `Razorpay`
-
-</td>
 </tr>
 </table>
 
