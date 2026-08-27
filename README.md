@@ -34,7 +34,7 @@ Final-year Computer Science & Engineering student building production-grade soft
 
 <td width="50%" valign="top">
 
-### AirGuard — Wearable Air Quality Monitor
+### [AirGuard](https://github.com/shreya-ravi17/AirGuard)
 
 IoT mask system with real-time sensor ingestion, ML-based air-quality forecasting, and a FastAPI backend on PostgreSQL. Owned backend architecture and model-serving integration.
 
